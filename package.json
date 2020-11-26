@@ -1,0 +1,9 @@
+{
+  "name": "ffont",
+  "version": "1.0.0",
+  "description": "nodejs implementation of ffont",
+  "main": "index.js",
+  "type": "module",
+  "author": "ofsahof",
+  "license": "ISC"
+}
