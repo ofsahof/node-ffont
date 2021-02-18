@@ -1,0 +1,33 @@
+{
+  "name": "ffont",
+  "version": "2.0.2",
+  "description": "nodejs implementation of ffont",
+  "main": "ffont.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "bin": "./ffont.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofsahof/node-ffont.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "ffont",
+    "node-ffont",
+    "commandline",
+    "command-line"
+  ],
+  "author": "ofsahof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofsahof/node-ffont/issues"
+  },
+  "homepage": "https://github.com/ofsahof/node-ffont#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "esm": "^3.2.25"
+  }
+}
